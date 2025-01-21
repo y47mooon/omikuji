@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.868fe30e.css",
+    "main.js": "/static/js/main.8cc4034f.js",
+    "static/media/shrine-background.jpg": "/static/media/shrine-background.f9d659125e269abc6a2f.jpg",
+    "index.html": "/index.html",
+    "main.868fe30e.css.map": "/static/css/main.868fe30e.css.map",
+    "main.8cc4034f.js.map": "/static/js/main.8cc4034f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.868fe30e.css",
+    "static/js/main.8cc4034f.js"
+  ]
+}
