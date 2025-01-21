@@ -29,7 +29,7 @@ function App() {
 
     return (
         <div className="container">
-            <h1>おみくじアプリ</h1>
+            <h1>おみくじ</h1>
             <button onClick={drawOmikuji}>おみくじを引く</button>
             <div id="result" className={showResult ? 'show' : ''}>{result}</div>
             <div id="comment" className={showComment ? 'show' : ''}>{comment}</div>
